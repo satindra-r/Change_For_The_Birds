@@ -1,1 +1,0 @@
-start javaw -jar "Save_The_Birds.jar"
