@@ -1,0 +1,5 @@
+theme: jekyll-theme-leap-day
+title: "Change for the birds"
+title_separator: "-"
+description: "A game to spread the awareness."
+show_downloads: true
